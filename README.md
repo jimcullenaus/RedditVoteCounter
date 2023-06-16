@@ -1,4 +1,4 @@
-# QuestionPosterBot
+# RedditVoteCounter
 
 A bot counts votes made as top-level comments on a post. Counts votes by looking for comments which include one of a series of keywords. Originally designed for use in [this /r/brisbane thread](https://old.reddit.com/r/brisbane/comments/14910v9/important_the_future_of_rbrisbane/).
 
